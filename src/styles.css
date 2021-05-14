@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-bottom: 0.5rem;
+  border-color: black;
+  outline: none;
+  height: 3rem;
+}
+
+iframe {
+  width: 97.3vw;
+  height: 91vh;
+}
