@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
+
+import data from "./urls.json";
 import "./styles.css";
-import data from "./url.json";
 
 const count = data.videoURLs.length
 
