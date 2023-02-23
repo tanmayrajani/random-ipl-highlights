@@ -20,7 +20,7 @@ export default function App() {
   return (
     <div className="App">
       <button onClick={shuffle}>SHUFFLE</button>
-      <iframe src={frameURL} title="random highlight" />
+      <iframe src={frameURL} title="random highlight" allowFullScreen />
     </div>
   );
 }
